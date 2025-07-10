@@ -4,7 +4,7 @@
 </p>
 
 - 🏙️ I'm currently based in **Hyderabad, India**
-- 🌐 Most of my work here will be around:
+- 🌐 Much of my work here will be around:
   - **Networks** (design, configs, simulations)
   - **Cloud infrastructure** (IaC, automation, monitoring)
   - **IoT systems** (chip-level code, device configs, edge services)
